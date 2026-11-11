@@ -1,3 +1,6 @@
+thời tiết
+tradingview
+forex factory
 alice huang
 atlético madrid vs fc barcelona standings
 atlético vs barcelona
@@ -9,7 +12,6 @@ palace vs liverpool
 sunderland vs chelsea
 xsmn
 nottingham forest vs man city standings
-thời tiết
 real madrid
 psg
 valencia vs real madrid
@@ -18,7 +20,6 @@ bayern munich
 arsenal vs hull
 mainz vs bayern
 bomb threat
-forex factory
 xoso
 fraud
 weather
@@ -97,4 +98,3 @@ helen haines
 php
 uefa champions league
 como 1907 vs manchester united f.c. standings
-real madrid vs rb leipzig
